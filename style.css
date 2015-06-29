@@ -1,0 +1,16 @@
+body{
+	width: 480px;
+	height: 140px;
+	display: inline-block;
+}
+#inp{
+	float: left;
+	margin-right: 20px;
+	width: 380px;
+	margin-top: 15px;
+	border: 1px solid gray;
+	border-radius: 2px;
+}
+#btng{
+	margin-top: 10px;
+}
